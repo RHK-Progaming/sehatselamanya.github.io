@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sehatselamanya.github.io/sehatselamanya.github.io</id>
+    <title>Sehatselamanya | Solusi Sehat Dengan Herbal </title>
+    <updated>2020-09-10T10:26:11.286Z</updated>
+    <generator>Gridsome Feed Plugin</generator>
+    <link rel="alternate" href="https://sehatselamanya.github.io"/>
+    <link rel="self" href="https://sehatselamanya.github.io/sehatselamanya.github.io/feed.atom"/>
+    <subtitle>Sehat Selamanya, Apa saja tanaman obat-obatan yang bisa ditanam sendiri di rumah dan memiliki khasiat yang baik bagi kesehatan?</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Ambeyes Obat Herbal Alami]]></title>
+        <id>https://sehatselamanya.github.io/sehatselamanya.github.io/ambeyes-obat-herbal-alami/</id>
+        <link href="https://sehatselamanya.github.io/sehatselamanya.github.io/ambeyes-obat-herbal-alami/"/>
+        <updated>2019-02-07T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown test file]]></title>
+        <id>https://sehatselamanya.github.io/sehatselamanya.github.io/markdown-test-file/</id>
+        <link href="https://sehatselamanya.github.io/sehatselamanya.github.io/markdown-test-file/"/>
+        <updated>2019-02-06T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambeyes Obat Ambeien Herbal Alami]]></title>
+        <id>https://sehatselamanya.github.io/sehatselamanya.github.io/ambeyes-obat-ambeien-herbal-alami/</id>
+        <link href="https://sehatselamanya.github.io/sehatselamanya.github.io/ambeyes-obat-ambeien-herbal-alami/"/>
+        <updated>2018-01-07T00:00:00.000Z</updated>
+    </entry>
+</feed>

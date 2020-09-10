@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sehatselamanya | Solusi Sehat Dengan Herbal ",
+    "home_page_url": "https://sehatselamanya.github.io",
+    "feed_url": "https://sehatselamanya.github.io/sehatselamanya.github.io/feed.json",
+    "description": "Sehat Selamanya, Apa saja tanaman obat-obatan yang bisa ditanam sendiri di rumah dan memiliki khasiat yang baik bagi kesehatan?",
+    "items": [
+        {
+            "id": "https://sehatselamanya.github.io/sehatselamanya.github.io/ambeyes-obat-herbal-alami/",
+            "url": "https://sehatselamanya.github.io/sehatselamanya.github.io/ambeyes-obat-herbal-alami/",
+            "title": "Ambeyes Obat Herbal Alami",
+            "date_modified": "2019-02-07T00:00:00.000Z"
+        },
+        {
+            "id": "https://sehatselamanya.github.io/sehatselamanya.github.io/markdown-test-file/",
+            "url": "https://sehatselamanya.github.io/sehatselamanya.github.io/markdown-test-file/",
+            "title": "Markdown test file",
+            "date_modified": "2019-02-06T00:00:00.000Z"
+        },
+        {
+            "id": "https://sehatselamanya.github.io/sehatselamanya.github.io/ambeyes-obat-ambeien-herbal-alami/",
+            "url": "https://sehatselamanya.github.io/sehatselamanya.github.io/ambeyes-obat-ambeien-herbal-alami/",
+            "title": "Ambeyes Obat Ambeien Herbal Alami",
+            "date_modified": "2018-01-07T00:00:00.000Z"
+        }
+    ]
+}
